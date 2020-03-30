@@ -1,0 +1,11 @@
+C:\Users\Paweł\source\repos\logowanie\logowanie\bin\Debug\logowanie.exe.config
+C:\Users\Paweł\source\repos\logowanie\logowanie\bin\Debug\logowanie.exe
+C:\Users\Paweł\source\repos\logowanie\logowanie\bin\Debug\logowanie.pdb
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.Form1.resources
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.Form2.resources
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.Properties.Resources.resources
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.exe
+C:\Users\Paweł\source\repos\logowanie\logowanie\obj\Debug\logowanie.pdb
