@@ -1,0 +1,9 @@
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+C:\Users\Paweł\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
